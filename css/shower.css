@@ -30,7 +30,7 @@
 }
 
 /* page num */
-.level1::after {
+.level2::after {
     font-size: 80%;
     left: 95%;
     bottom: 3%;
