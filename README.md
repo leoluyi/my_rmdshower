@@ -1,6 +1,6 @@
 # My Rmdshowewr
 
-## Usage (for theme "material")
+## Usage (for theme: material)
 
 + Replace `screen-16x10.css` in `rmdshower` package path with 
 one in the [css directory](css/screen-16x10.css).
