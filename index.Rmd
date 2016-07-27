@@ -27,6 +27,7 @@ knitr::opts_chunk$set(warning = TRUE,
 ## knitr::opts_knit$set(root.dir = '.')
 ```
 
+
 ## How to use this slides
 
 ### subtitle
@@ -37,7 +38,33 @@ knitr::opts_chunk$set(warning = TRUE,
 
 # 標題頁
 
+## Progress bar
 
+<div class="progress"></div>
+
+## Note
+
+(可放資料來源等文字)
+
+<p class="note">
+Shower ['ʃəuə] noun. A person or thing that shows.
+</p>
+
+## Place (置中方塊)
+
+<p class="place" style="font-size:150%">
+Shower ['ʃəuə] noun. A person or thing that shows.
+</p>
+
+### another place {.place}
+
+
+## badge
+
+<p class="badge">
+		<a href="https://github.com/shower/shower">Fork me on GitHub</a>
+</p>
+	
 ## Hint
 
 標題扣掉中文字元只剩下數字或空白會有跳頁錯誤
@@ -57,9 +84,14 @@ knitr::opts_chunk$set(warning = TRUE,
 這也是白字
 </p>
 
+
+## Grid page {.grid}
+
+sdfsdfasdf
+
 ##  
 
-可以沒有標題
+標題可以空白
 
 <div align="center" style="font-size: 250%">
 <p>課程資訊</p>
@@ -86,7 +118,7 @@ knitr::opts_chunk$set(warning = TRUE,
 print("hihi")
 ```
 
-## 圖片滿寬，自動根據頁面調整大小
+## 圖片滿寬，自動調整至頁面大小
 
 <img src="img/scifi.jpg" alt="rstudio" style="height:auto; max-width:100%;">
 
@@ -97,7 +129,7 @@ print("hihi")
 <img src="img/lists-pepper.png" alt="" style="max-width:70%;" />
 
 
-## 圖片 90% 寬, 90％ 高
+## 圖片90%寬、90%高
 
 <img class="cover" src="img/crawler_process.png" style="max-width:90%; max-height:90%;">
 
