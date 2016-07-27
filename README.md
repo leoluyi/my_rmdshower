@@ -3,7 +3,7 @@
 ## Usage (for theme "material")
 
 + Replace `screen-16x10.css` in `rmdshower` package path with 
-one in the [css directory](css/shower.css).
+one in the [css directory](css/screen-16x10.css).
 Go to
 `path/to/library/rmdshower/node_modules/shower-material/styles`
 to replace the file.
