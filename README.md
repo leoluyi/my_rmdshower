@@ -13,4 +13,4 @@ path.package("path.package")
 ```
 + You can modify css in `css/shower.css` if needed.
 
-+ The HTML output of this document is at [HERE](index.html)
++ The HTML output of this document is at [HERE](https://leoluyi.github.io/my_rmdshower)
