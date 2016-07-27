@@ -21,6 +21,12 @@
     font: bold 50px/1 PT Sans Narrow, sans-serif;
 }
 
+/* subtitle */
+.slide h3 {
+    font-size: 1.27em;
+    font-weight: bold;
+}
+
 .slide p, .slide ul, .slide ol {
     margin-bottom: 0.3em;
 }
