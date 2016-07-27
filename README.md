@@ -10,7 +10,7 @@ to replace the file.
 
 ```{r}
 library(rmdshower)
-path.package("path.package")
+path.package("rmdshower")
 ```
 
 + You can modify css in `css/shower.css` if needed.
