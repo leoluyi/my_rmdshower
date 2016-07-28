@@ -1,5 +1,7 @@
 # My Rmdshowewr
 
+[![](http://www.r-pkg.org/badges/version/rmdshower)](http://www.r-pkg.org/pkg/rmdshower)
+
 ## Usage (for theme: material)
 
 + Replace `screen-16x10.css` in `rmdshower` package path with 
