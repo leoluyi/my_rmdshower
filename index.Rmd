@@ -38,10 +38,6 @@ knitr::opts_chunk$set(warning = TRUE,
 
 # 標題頁
 
-## Progress bar
-
-<div class="progress"></div>
-
 ## Note
 
 (可放資料來源等文字)
