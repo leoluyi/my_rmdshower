@@ -1,4 +1,4 @@
-# My Rmdshowewr
+# My Rmdshower
 
 [![](http://www.r-pkg.org/badges/version/rmdshower)](http://www.r-pkg.org/pkg/rmdshower)
 
