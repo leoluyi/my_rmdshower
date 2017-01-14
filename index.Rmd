@@ -116,7 +116,7 @@ print("hihi")
 
 ## 圖片滿寬，自動調整至頁面大小
 
-<img src="img/scifi.jpg" alt="rstudio" style="height:auto; max-width:100%;">
+<img src="img/scifi.jpg" alt="" style="height:auto; max-width:100%;">
 
 
 ## 圖片 70% 寬
